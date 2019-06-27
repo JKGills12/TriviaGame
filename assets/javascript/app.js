@@ -78,4 +78,31 @@ var trivia = {
         q18: 'Matt LeBlanc'
     },
     
+    // Trivia Methods
+    // Method to initialize the game
+    startGame: function() {
+        // Restarting game result
+        trivia.currentSet = 0;
+        trivia.correct = 0;
+        trivia.incorrect = 0;
+        trivia.unanswered = 0;
+        clearInterval(trivia.timerId);
+
+        // Shows game section
+        $('#game').show();
+
+        // Empty last results
+        $('#results').html('');
+
+        // Show timer
+        $('#timer').text(trivia.timer);
+
+        // Remove start button
+        $('#start').hide();
+
+        $('#remaining-time').show();
+
+        // Ask first question
+        trivia.nextQuestion();
+    },
 }
