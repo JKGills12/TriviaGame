@@ -15,6 +15,7 @@ A button to play again will bring them back to the beginning of the trvia.
 
 
 
-https://jkgills12.github.io/TriviaGame/
-https://github.com/JKGills12/TriviaGame.git
+[Friends Trivia Game] https://jkgills12.github.io/TriviaGame/
+
+[GitHub] https://github.com/JKGills12/TriviaGame.git
 
