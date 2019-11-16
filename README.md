@@ -1,6 +1,7 @@
 # TriviaGame
-##Friends Trivia##
-The purpose of this assignment was to HTML/CSS and JavaScript/jQuery to build a themed mulitple choice trivia game that used a timer. Once the user starts the game, they have a limited number of seconds before the timer runs out to answer. Any missed response or wrong answer results in a negative point count; correct answers will result in positive point count.
+**Friends Trivia**
+
+The purpose of this assignment was to use HTML/CSS and JavaScript/jQuery to build a themed mulitple choice trivia game that used a timer. Once the user starts the game, they have a limited number of seconds before the timer runs out to answer. Any missed response or wrong answer results in a negative point count; correct answers will result in positive point count.
 
 ## Directions
 User is presented with a welcome page where they click "Start Game" to begin and listen to the Friend's Themesong while answering the trivia questions.
