@@ -3,6 +3,7 @@
 
 This web app game was created using HTML/CSS and JavaScript/jQuery to build a themed mulitple choice trivia game that used a timer that count. Once the user starts the game, they have a limited number of seconds before the timer runs out to answer. Any missed response or wrong answer results in a negative point count; correct answers will result in positive point count.
 
+![screenshot](/images/friends.jpg)
 ## Getting Started
 
 ### Prerequisites
