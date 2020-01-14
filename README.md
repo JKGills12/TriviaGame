@@ -17,7 +17,6 @@ This web app game was created using HTML/CSS and JavaScript/jQuery to build a th
 You will start out with the base code to get you up and running.
 
 
-
 ## Directions
 User is presented with a welcome page where they click "Start Game" to begin and listen to the Friend's Themesong while answering the trivia questions.
 User has 18 questions to answer.
@@ -29,7 +28,8 @@ Else, they receive a red highlighted button and an incorrect point and will be g
 After all questions have been answered, a results page is displayed with how many were correct, incorrect, and unanswered.
 A button to play again will bring them back to the beginning of the trvia.
 
-
+## Deployment
+Web page deployed using Github pages (found in the Settings tab).
 
 [Friends Trivia Game] https://jkgills12.github.io/TriviaGame/
 
